@@ -1,4 +1,4 @@
-# ViewModel_liveData_fragment
+# ViewModel liveData fragment
 Using ViewModel and LiveData in Fragment
 <br>
 
@@ -14,7 +14,7 @@ Using ViewModel and LiveData in Fragment
 
 
 <br>
-<img src="picture/architecture.png" height="450" width="580">&nbsp;
+<img src="picture/architecture.png" height="450" width="680">&nbsp;
 <br>
 
 # SDK Required
