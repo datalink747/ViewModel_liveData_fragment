@@ -3,6 +3,15 @@ Using ViewModel and LiveData in Fragment
 <br>
 
 [![Ansible Role](https://img.shields.io/badge/Developer-Soussidev-yellow.svg)]()
+
+<br>
+
+[![Ansible Role](https://img.shields.io/badge/Using-Retrofit-bleu.svg)]()
+[![Ansible Role](https://img.shields.io/badge/Using-LiveData-bleu.svg)]()
+[![Ansible Role](https://img.shields.io/badge/Using-ViewModel-bleu.svg)]()
+[![Ansible Role](https://img.shields.io/badge/Using-RXJAVA-bleu.svg)]()
+[![Ansible Role](https://img.shields.io/badge/Using-Repository-bleu.svg)]()
+
 # Preview :
 * ViewModel and LiveData (fragment) :
 
@@ -11,7 +20,6 @@ Using ViewModel and LiveData in Fragment
 <br>
 
 # Architecture :
-
 
 <br>
 <img src="picture/architecture.png" height="450" width="680">&nbsp;
